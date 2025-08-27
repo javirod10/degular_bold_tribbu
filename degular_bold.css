@@ -1,23 +1,20 @@
-/* Peso 400 (normal) */
-@font-face {
-  font-family: 'OhnoTypeCustom';
+/* 400 */
+@font-face{
+  font-family:'OhnoTypeCustom';
   src: url('https://javirod10.github.io/degular_bold_tribbu/degular-bold.woff2') format('woff2'),
-       url('https://javirod10.github.io/degular_bold_tribbu/degular-bold.woff') format('woff');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
+       url('https://javirod10.github.io/degular_bold_tribbu/degular-bold.woff') format('woff'),
+       url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.otf') format('opentype');
+  font-weight:400; font-style:normal; font-display:swap;
 }
 
-/* Peso 700 (bold) */
-@font-face {
-  font-family: 'OhnoTypeCustom';
+/* 700 */
+@font-face{
+  font-family:'OhnoTypeCustom';
   src: url('https://javirod10.github.io/degular_bold_tribbu/degular-bold.woff2') format('woff2'),
-       url('https://javirod10.github.io/degular_bold_tribbu/degular-bold.woff') format('woff');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
+       url('https://javirod10.github.io/degular_bold_tribbu/degular-bold.woff') format('woff'),
+       url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.otf') format('opentype');
+  font-weight:700; font-style:normal; font-display:swap;
 }
 
-body {
-  font-family: 'OhnoTypeCustom', Arial, sans-serif;
-}
+/* uso */
+body{ font-family:'OhnoTypeCustom', Arial, sans-serif; }
