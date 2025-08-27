@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'OhnoTypeCustom';
+  src: url('https://drive.google.com/uc?export=download&id=18-8R-i1fqAJdrt28YEKxFfxiT4HeWuLh') format('woff2'),
+       url('https://drive.google.com/uc?export=download&id=1sOUBLPSrZ8wBlNhViarDjfhO5TNWnsEz') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'OhnoTypeCustom', Arial, sans-serif;
+}
