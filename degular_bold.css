@@ -10,12 +10,13 @@
 /* 700 */
 @font-face{
   font-family:'OhnoTypeCustom';
-  src: url('https://javirod10.github.io/degular_bold_tribbu/degular-bold.woff2') format('woff2'),
-       url('https://javirod10.github.io/degular_bold_tribbu/degular-bold.woff') format('woff'),
+  src: url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.woff2') format('woff2'),
+       url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.woff') format('woff'),
        url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.otf') format('opentype');
   font-weight:700; font-style:normal; font-display:swap;
 }
 
 /* uso */
 body{ font-family:'OhnoTypeCustom', Arial, sans-serif; }
+
 
