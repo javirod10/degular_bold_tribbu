@@ -1,6 +1,6 @@
 /* 400 */
 @font-face{
-  font-family:'OhnoTypeCustom';
+  font-family:'DegularBold';
   src: url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.woff2') format('woff2'),
        url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.woff') format('woff'),
        url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.otf') format('opentype');
@@ -9,7 +9,7 @@
 
 /* 700 */
 @font-face{
-  font-family:'OhnoTypeCustom';
+  font-family:'DegularBold';
   src: url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.woff2') format('woff2'),
        url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.woff') format('woff'),
        url('https://javirod10.github.io/degular_bold_tribbu/Degular-Bold.otf') format('opentype');
@@ -18,5 +18,6 @@
 
 /* uso */
 body{ font-family:'OhnoTypeCustom', Arial, sans-serif; }
+
 
 
